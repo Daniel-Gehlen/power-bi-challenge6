@@ -1,3 +1,5 @@
+# Vibrant, contrasting colors in Power BI.
+
 **Introduction:**
 In this section, a detailed financial analysis of the company's performance in the last quarter was presented. An approach centered on user experience was used, highlighting important information through vibrant and contrasting colors.
 
